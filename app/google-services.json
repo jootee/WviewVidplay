@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "364956345918",
+    "firebase_url": "https://skiqs-4f55b.firebaseio.com",
+    "project_id": "skiqs-4f55b",
+    "storage_bucket": "skiqs-4f55b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:364956345918:android:56d7c1d45d9e71f6",
+        "android_client_info": {
+          "package_name": "com.dosh.webviewvidplay"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "364956345918-uegdfhr0n7u8i46mupflb4dsqhvpob9b.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDuDiu0Gho9wp9fgKBFPcVscjKkbEF54_0"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
